@@ -1,0 +1,11 @@
+__pycache__
+__pycache__/* 
+.env
+data
+database
+api_manager/__pycache__
+calc_similarity/__pycache__
+data_loader/__pycache__
+history/__pycache__
+query_process/cohere/__pycache__
+query_process/gemini_ai/__pycache__
